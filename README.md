@@ -14,6 +14,15 @@ Or install it yourself as:
 
     $ gem install gallery-css
 
+## Configuration
+
+Add these lines to app/assets/stylesheets/application.css
+
+``` sass
+@import 'gallery-css/gallery.theme';
+@import 'gallery-css/gallery.build';
+```
+
 ## Usage
 
 Checkout the [screencast](http://benschwarz.github.io/gallery-css) by [benschwarz](https://github.com/benschwarz)

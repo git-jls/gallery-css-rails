@@ -1,4 +1,8 @@
-# Gallery-css-rails Gem for the awesome gallery-css
+# Gallery-css-rails gem for the awesome gallery-css
+
+This is the rails gem that will include the
+[gallery-css](https://github.com/benschwarz/gallery-css) library into your
+Rails application via the asset pipelink.
 
 ## Installation
 
@@ -37,4 +41,4 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/git-jl
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
 ## Credits
-Gallery-css by [benschwarz](https://github.com/benschwarz/gallery-css/).
+Gallery-css by [benschwarz](https://github.com/benschwarz).
